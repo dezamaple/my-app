@@ -1,0 +1,2 @@
+# my-app
+Educational only
